@@ -1,0 +1,5 @@
+D:\C_sharp\Aula C# - 2015\Aula09\Projeto.Entidades\bin\Debug\Projeto.Entidades.dll
+D:\C_sharp\Aula C# - 2015\Aula09\Projeto.Entidades\bin\Debug\Projeto.Entidades.pdb
+D:\C_sharp\Aula C# - 2015\Aula09\Projeto.Entidades\obj\Debug\Projeto.Entidades.csprojResolveAssemblyReference.cache
+D:\C_sharp\Aula C# - 2015\Aula09\Projeto.Entidades\obj\Debug\Projeto.Entidades.dll
+D:\C_sharp\Aula C# - 2015\Aula09\Projeto.Entidades\obj\Debug\Projeto.Entidades.pdb
